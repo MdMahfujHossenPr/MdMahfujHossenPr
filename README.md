@@ -44,36 +44,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-  <b>Explore some of my best work 👇</b>
-</p>
-
-### 🔷 Lawyer Appointment App
-- 💬 A dynamic lawyer booking app with availability check, charts, animations, and more.
-- 🔗 [Live Demo](https://your-lawyer-app-link.netlify.app)
-- 🔍 Tech Stack: React, Tailwind CSS, Recharts, localStorage
-- 📸 [Repository](https://github.com/MdMahfujHossenPr/lawyer-booking-app)
-
----
-
-### 🔶 Auction Bidding App
-- 🎯 An auction system with bookmark feature, bid tracking, and responsive layout.
-- 🔗 [Live Demo](https://your-auction-app-link.netlify.app)
-- 🔍 Tech Stack: React, Tailwind CSS, Toast, Animation
-- 📸 [Repository](https://github.com/MdMahfujHossenPr/auction-app)
-
----
-
-### 🟢 Personal Portfolio Website
-- 🌐 Showcasing my work, skills, and contact info in one place.
-- 🔗 [Live Demo](https://your-portfolio-site.netlify.app)
-- 🔍 Tech Stack: React, Tailwind CSS, Framer Motion
-- 📸 [Repository](https://github.com/MdMahfujHossenPr/portfolio)
-
----
-
 ## ☎️ Connect With Me
 
 <p align="center">
