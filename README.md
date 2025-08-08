@@ -1,14 +1,24 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co/4CxykKV/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">🌌 Md Mahfuj Hossen 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=8DF2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Mahfuj+Hossen!;A+Passionate+Frontend+Developer;Building+Magic+With+React+%26+Tailwind;Welcome+To+My+Coding+Galaxy+💫" alt="Typing animation" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+## 👨‍🚀 About Me
+
+🌟 A passionate Frontend Developer from Bangladesh  
+🧠 Currently diving deep into the MERN stack and building real-world web applications  
+🚀 Dedicated to crafting modern, responsive, and user-centric UIs using React & Tailwind CSS  
+📬 Email: mdmahfujhossen.pr@gmail.com  
+📍 Location: Dhaka, Bangladesh
+
 
 ---
 
@@ -23,37 +33,58 @@
 ## 🌌 GitHub Galaxy Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfuj-hossen&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=mahfuj-hossen&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MdMahfujHossenPr&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=MdMahfujHossenPr&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuj-hossen&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdMahfujHossenPr&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
+
 
 ---
 
-## 🛸 Welcome to My Space Station:
+## 📌 Featured Projects
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/cd/cd/00/cdcd000e31f57ab84bd40c3ee145b1a5.gif" width="250" />
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="250" />
-  <img src="https://i.pinimg.com/originals/f0/12/c6/f012c6e72a3f6b9e6f5883333f4d0f0e.gif" width="250" />
+  <b>Explore some of my best work 👇</b>
 </p>
+
+### 🔷 Lawyer Appointment App
+- 💬 A dynamic lawyer booking app with availability check, charts, animations, and more.
+- 🔗 [Live Demo](https://your-lawyer-app-link.netlify.app)
+- 🔍 Tech Stack: React, Tailwind CSS, Recharts, localStorage
+- 📸 [Repository](https://github.com/MdMahfujHossenPr/lawyer-booking-app)
+
+---
+
+### 🔶 Auction Bidding App
+- 🎯 An auction system with bookmark feature, bid tracking, and responsive layout.
+- 🔗 [Live Demo](https://your-auction-app-link.netlify.app)
+- 🔍 Tech Stack: React, Tailwind CSS, Toast, Animation
+- 📸 [Repository](https://github.com/MdMahfujHossenPr/auction-app)
+
+---
+
+### 🟢 Personal Portfolio Website
+- 🌐 Showcasing my work, skills, and contact info in one place.
+- 🔗 [Live Demo](https://your-portfolio-site.netlify.app)
+- 🔍 Tech Stack: React, Tailwind CSS, Framer Motion
+- 📸 [Repository](https://github.com/MdMahfujHossenPr/portfolio)
 
 ---
 
 ## ☎️ Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahfuj-hossen" target="_blank">
+  <a href="[https://linkedin.com/in/mahfuj-hossen](https://www.linkedin.com/in/md-mahfuj-hossen-0bb605379)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:mahfujwebdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/mahfuj-hossen" target="_blank">
+  <a href="https://github.com/MdMahfujHossenPr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
+  </a>
+  <a href="mailto:mdmahfujhossen.pr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
