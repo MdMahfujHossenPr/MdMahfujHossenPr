@@ -77,7 +77,7 @@
 ## ☎️ Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/md-mahfuj-hossen-abc59" target="_blank">
+  <a href="https://www.linkedin.com/in/md-mahfuj-hossen-0bb605379" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://github.com/MdMahfujHossenPr" target="_blank">
